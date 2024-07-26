@@ -1,0 +1,102 @@
+/* Colors */
+:root {
+    --dark-green: #162114;
+    --pine: #294122;
+    --salmon: #ffbba6;
+    --tangerine: #eb3d00;
+    --chiffon: #ffedd2;
+    --light-blue: #77E4C8;
+    --dark-blue: #478CCF;
+    --teal: #36C2CE;
+}
+
+/* General styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: var(--light-blue);
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: fixed;
+    background-color: var(--dark-blue);
+    width: 100%;
+    text-align: center;
+    height: 60px;
+    top: 0;
+    font-size: 1.5em;
+    color: var(--light-blue);
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+main {
+    margin-top: 80px;
+    padding: 20px;
+}
+
+#img-div {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 50%;
+    border-radius: 10%;
+    display: block;
+    margin: 0 auto;
+}
+
+figcaption {
+    margin-top: 10px;
+    font-style: italic;
+}
+
+#tribute-info {
+    margin-top: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.light {
+    background-color: var(--teal);
+    color: white;
+}
+
+.dark {
+    background-color: var(--dark-blue);
+    color: white;
+}
+
+#tribute-link {
+    margin-top: 20px;
+}
+
+#tribute-link a {
+    color: var(--tangerine);
+    text-decoration: none;
+}
+
+#tribute-link a:hover {
+    text-decoration: underline;
+}
