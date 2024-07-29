@@ -1,0 +1,73 @@
+I could see people were going to need these things and the amount of information would increase. 
+And I still think it’s going to increase even more. I don’t think we’ve even begun to recognize how much we are 
+going to have to do with these computers. I don’t think people are facing what the future is going to be like. 
+The big computers are not going to handle all the data. We’ll go to systems of computers. And the sooner we begin to 
+do it the better. There’s never any reason to put inventory and payroll on the same computer, but we only did it 
+because we had only one computer. There’s every reason to pull those off onto separate computers and dedicate them. 
+We can simplify the software and run them in parallel, which makes things go much better.
+
+
+https://hackaday.com/2017/12/05/disrupting-the-computer-industry-before-it-existed-rear-admiral-grace-hopper/
+
+1906
+
+December 9: Grace Hopper is born in New York, New York, USA.
+1928
+
+Graduates from Vassar College with a Bachelor's degree in mathematics and physics.
+1930
+
+Earns a Master's degree in mathematics from Yale University.
+1931
+
+Begins teaching mathematics at Vassar College.
+1934
+
+Receives a Ph.D. in mathematics from Yale University, becoming the first woman to do so.
+1943
+
+Joins the U.S. Naval Reserve after the attack on Pearl Harbor.
+1944
+
+Assigned to the Bureau of Ordnance’s Computation Project at Harvard University, working on the Mark I computer.
+1946
+
+Writes "A Manual of Operation for the Automatic Sequence Controlled Calculator," the first comprehensive computer manual.
+1949
+
+Joins the Eckert-Mauchly Computer Corporation, where she designs one of the first compilers and coins the term "compiler."
+1951
+
+Eckert-Mauchly is taken over by Remington Rand, where she continues to work on UNIVAC I.
+1955
+
+Remington Rand merges into Sperry Rand Corporation.
+1957
+
+Her division develops Flow-Matic, the first English-language data-processing compiler, which inspires COBOL.
+1966
+
+Retires from the Navy with the rank of commander.
+1967
+
+Recalled to active duty to help standardize the Navy's computer languages.
+1983
+
+Promoted to commodore, a rank later incorporated into that of rear admiral in 1985.
+1986
+
+Retires from the Navy as the oldest active-duty officer at the age of 79.
+1991
+
+Awarded the National Medal of Technology. She states, “If you ask me what accomplishment I’m most proud of, the answer would be all the young people I’ve trained over the years; that’s more important than writing the first compiler.”
+1992
+
+January 1: Grace Hopper passes away in Arlington, Virginia.
+2016
+
+Posthumously awarded the Presidential Medal of Freedom.
+Legacy
+
+Yale University names one of its residential colleges after her.
+Known for her pioneering work in computer technology, particularly in developing COBOL and advocating for high-level programming languages.
+Celebrated as a mentor and educator who inspired many young people in the field of computing.
